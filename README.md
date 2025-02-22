@@ -34,11 +34,11 @@ This repository contains a collection of beginner-friendly Python programs that 
 ## How to Use
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/python-beginner-programs.git
+   https://github.com/hmahmoud2211/Python-Programs.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd python-beginner-programs
+   cd Python-Programs
    ```
 3. Run any Python file using:
    ```sh
